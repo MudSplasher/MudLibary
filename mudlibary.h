@@ -1,5 +1,6 @@
 #include <stdio.h>
 #define mud "mud"
+#define voidhaha void
 #define intemud int
 #define mamud main
 #define mudee (
@@ -16,5 +17,7 @@
 #define mudd 0
 #define mudsplash printf("mud SPLASH")
 
-
+intemud mamud (voidhaha) mudlo
+      mudsplash
+semud
 

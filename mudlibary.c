@@ -14,4 +14,6 @@
 #define muddddd [
 #define mudddd ]
 #define mudd 0
-#define mudsplash printf("mud")
+#define mudsplash printf("mud SPLASH")
+
+mudsplash

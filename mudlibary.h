@@ -16,5 +16,11 @@
 #define mudddd ]
 #define mudd 0
 #define mudsplash printf("This Message is printed with my libary compiled with clang");
-
-
+#define mcha char
+#define muint32 uint32_t
+#define muint64 uint64_t
+#define muint16 uint16_t
+#define nsigned unsigned
+#define mutr ptr
+#define mbid long
+#define mize size_t
